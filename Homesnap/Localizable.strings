@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  Homesnap Agent
+
+  Created by Justin Wells on 3/23/18.
+  Copyright © 2018 SynergyLabs. All rights reserved.
+*/
+
+//Feed Tab
+"feedTabTitle" = "Feed";
+"emptyFeed" = "Nothing yet";
+//FeedItem Cell
+"unavailable" = "Unavailable";
+"bedroomAbbreviation" = "bd";
+"bathroomAbbreviation" = "ba";
+
+
+//Search Tab
+"searchTabTitle" = "Search";
+"localInfo" = "Local Info";
+"saveSearch" = "Save Search";
+"list" = "List";
+"filter" = "Filter";
+"sort" = "Sort";
+"map" = "Map";
+"nearby" = "Nearby";
+"flyover" = "Flyover";
+"satellite" = "Satellite";
+"hybrid" = "Hybrid";
+"map" = "Map";
+//LocalInfo
+"crime" = "Crime";
+"schools" = "Schools";
+"shopAndEat" = "Shop & Eat";
+"priceTrends" = "Price Trends";
+"people" = "People";
+"liveWell" = "Live Well";
+"naturalDisaster" = "Natural Disaster";
+"boundaries" = "Boundaries";
+"localInfoCrimeHeader" = "CRIMES REPORTED NEAR THIS AREA";
+"localInfoSchoolHeader" = "SCHOOLS NEAR THIS AREA";
+"localInfoLocationHeader" = "LOCATIONS NEAR THIS AREA";
+//Filter Controller
+"apply" = "Apply";
+"forSale" = "For Sale";
+"forRent" = "For Rent";
+"any" = "Any";
+"reset" = "Reset";
+"priceRange" = "Price Range";
+"beds" = "Beds";
+"keywords" = "Keywords";
+"moreFilters" = "More Filters";
+"filterDefaultDetailText" = "Any";
+"filterTextFieldPlaceholder" = "Pool, Garage, Water Front";
+//Listings
+"photos" = "photos";
+
+
+//Saves Tab
+"savesTabTitle" = "Saves";
+
+
+//Messages Tab
+"messagesTabTitle" = "Messages";
+
+
+//More Tab
+"moreTabTitle" = "More";
+
+
+
+
+
+

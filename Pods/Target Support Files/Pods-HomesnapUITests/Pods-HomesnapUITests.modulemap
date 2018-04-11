@@ -1,0 +1,6 @@
+framework module Pods_HomesnapUITests {
+  umbrella header "Pods-HomesnapUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
